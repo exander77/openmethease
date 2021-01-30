@@ -1,4 +1,4 @@
-# Openmethese Geno
+# Openmethease Geno
 Free literature retrieval system for DNA analysis.
 
 # Supported files
