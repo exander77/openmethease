@@ -1,0 +1,160 @@
+/* https://unpkg.com/reset-css@5.0.1/reset.css */
+
+/* http://meyerweb.com/eric/tools/css/reset/
+   v5.0.1 | 20191019
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, menu, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+main, menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, main, menu, nav, section {
+	display: block;
+}
+/* HTML5 hidden-attribute fix for newer browsers */
+*[hidden] {
+    display: none;
+}
+body {
+	line-height: 1;
+}
+menu, ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* CSS */
+html {
+    color: black;
+    background-color: white;
+    /*filter: invert(100%);*/
+}
+body {
+    padding: 5px;
+}
+* {
+    font-family: 'Verdana', sans-serif;
+}
+#log {
+    width: 240px;
+    height: calc(100vh - 75px);
+    float: left;
+    font-size: 10px;
+}
+.tabcontent {
+    width: calc(100% - 246px);
+    float: right;
+    max-height: calc(100vh - 84px);
+    display: table;
+    _overflow-y: scroll;
+}
+.tabcontent thead {
+}
+.tabcontent thead th {
+}
+.tabcontent thead td {
+}
+.tabcontent tr {
+    padding: 0px;
+    margin: 0px;
+}
+.tabcontent td {
+    padding: 1px !important;
+    margin: 0px;
+}
+.tabcontent input {
+    width: calc(100% - 8px);
+}
+h1 {
+    font-size: 140%;
+    font-weight: bold;
+    margin: 20px 0;
+}
+h2 {
+    font-size: 120%;
+    font-weight: bold;
+    margin: 10px 0;
+}
+.tabcontent tbody {
+}
+
+.sortable td:first-child, .sortable th:first-child {
+    border-top-left-radius: 0px !important;
+}
+.sortable td:last-child, .sortable th:last-child {
+    border-top-right-radius: 0px !important;
+}
+.sortable th {
+  padding: 6px 10px !important;
+}
+
+@-moz-document url-prefix() {
+    .tabcontent input {
+        width: calc(100% - 20px);
+    }
+    .tabcontent {
+        width: calc(100% - 244px);
+    }
+}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 6px 10px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+}

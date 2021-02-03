@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="IE=edge">
+        <title>Openmethease Geno</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Openmethease Geno">
+        <meta name="keywords" content="openmethease, dna, gene, genotype, snp, rsnum, analysis">
+        <meta name="author" content="exander77">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/sortable.min.css">
+        <script type="text/javascript" src="bundle/bundle.js"></script>
+        <script type="text/javascript" src="js/sortable.min.js"></script>
+    </head>
+<body>
+    <span style="font-weight: bold">!!! WARNING !!! Openmethease Geno v0.0.2 - Input hg38 alligned (g)VCF (vcf or vcf.gz): <input type="file" name="file" id="file" disabled></span>
+    <div style="float:right">
+        Donate:
+        <!--
+        <a target="blank" href="https://patreon.com">Patreon</a> |-->
+        <a target="blank" href="https://github.com/exander77/openmethease/blob/main/DONATE.md">BTC/LTC/DOGE/ETH/Monero</a> |
+        <a target="blank" href="https://www.paypal.com/donate?business=BMGUXHBMTEQLW&item_name=Openmethease&currency_code=EUR">EUR</a> |
+        <a target="blank" href="https://www.paypal.com/donate?business=BMGUXHBMTEQLW&item_name=Openmethease&currency_code=USD">USD</a> &
+        <a target="blank" href="https://github.com/exander77/openmethease">Help & Support</a>
+    </div>
+    <br />
+    I attribute used data to
+    <a target="blank" href="https://www.snpedia.com/index.php/Terms_of_Use">SNPedia</a>
+    under the same licensing
+    <a target="blaank" href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">CC Attribution-Noncommercial-Share Alike 3.0 Unported</a>. Data were modified and transformed for Openmethease.
+    <hr />
+    <div>
+        <textarea id="log" readonly></textarea>
+        <div class="tab">
+          <button id="RsnumTabButton" class="tablinks">Rsnum (+/- Working)</button>
+          <button id="GenosetTabButton" class="tablinks">Genoset (Experimental)</button>
+          <!--<button id="PharmacogeneticsTabButton" class="tablinks">Pharmacogenetics</button>-->
+        </div>
+        <table id="RsnumTab" class="sortable tabcontent">
+            <thead>
+            <tr>
+                <th>Rsid</th>
+                <th>Genotype</th>
+                <th>Magnitude</th>
+                <th>Repute</th>
+                <th>Summary</th>
+                <th>Source</th>
+            <tr/>
+            <tr>
+                <td><input id="searchRsid" type="text" /></td>
+                <td><input id="searchGenotype" type="text" /></td>
+                <td><input id="searchMagnitude" type="text" /></td>
+                <td><input id="searchRepute" type="text" /></td>
+                <td><input id="searchSummary" type="text" /></td>
+                <td><input id="searchSource" type="text" /></td>
+            </tr>
+            <tr><td colspan="5" style="width: 100%"></td></tr>
+            </thead>
+            <tbody id="RsnumTableBody"></tbody>
+        </table>
+        <table id="GenosetTab" class="sortable tabcontent">
+            <thead>
+            <tr>
+                <th>Gsid</th>
+                <th>Magnitude</th>
+                <th>Repute</th>
+                <th>Summary</th>
+                <th>Source</th>
+            <tr/>
+            <tr><td colspan="4" style="width: 100%"></td></tr>
+            </thead>
+            <tbody id="GenosetTableBody"></tbody>
+        </table>
+        <table id="PharmacogeneticsTab" class="sortable tabcontent">
+            <thead>
+            <tr>
+            <tr/>
+            <tr><td colspan="1" style="width: 100%"></td></tr>
+            </thead>
+            <tbody id="PharmacogeneticsTableBody"></tbody>
+        </table>
+    </div>
+    </div>
+</body>
+</html>
