@@ -15,7 +15,7 @@
         <script type="text/javascript" src="js/sortable.min.js"></script>
     </head>
 <body>
-    <span style="font-weight: bold">!!! WARNING !!! Openmethease Geno v0.0.2 - Input hg38 alligned (g)VCF (vcf or vcf.gz): <input type="file" name="file" id="file" disabled></span>
+    <span style="font-weight: bold">!!! WARNING !!! Openmethease Geno v0.0.3 - Input hg38 alligned (g)VCF (vcf or vcf.gz): <input type="file" name="file" id="file" disabled></span>
     <div style="float:right">
         Donate:
         <!--
@@ -36,7 +36,7 @@
         <div class="tab">
           <button id="RsnumTabButton" class="tablinks">Rsnum (+/- Working)</button>
           <button id="GenosetTabButton" class="tablinks">Genoset (Experimental)</button>
-          <!--<button id="PharmacogeneticsTabButton" class="tablinks">Pharmacogenetics</button>-->
+          <button id="PharmacogeneticsTabButton" class="tablinks">Pharmacogenetics (Experimental)</button>
         </div>
         <table id="RsnumTab" class="sortable tabcontent">
             <thead>
@@ -76,8 +76,13 @@
         <table id="PharmacogeneticsTab" class="sortable tabcontent">
             <thead>
             <tr>
+                <th>Medicine</th>
+                <th>Magnitude</th>
+                <th>Repute</th>
+                <th>Summary</th>
+                <th>Source</th>
             <tr/>
-            <tr><td colspan="1" style="width: 100%"></td></tr>
+            <tr><td colspan="6" style="width: 100%"></td></tr>
             </thead>
             <tbody id="PharmacogeneticsTableBody"></tbody>
         </table>

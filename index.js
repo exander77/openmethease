@@ -155,25 +155,39 @@ window.addEventListener('load', async event => { //{{{
         log.apply(console, arguments)
     }
     logArea.value = 'Loading...'
-    const dataFiles = ['Rsnum', 'Genotype', 'Genoset']
+    const dataFiles = ['Rsnum', 'Genotype', 'Genoset', 'Medicine']
     const dataRequests = await Promise.all(dataFiles.map(e => fetch('data/' + e + '.json')))
-    const [Rsnum, Genotype, Genoset] = await Promise.all(dataRequests.map(e => e.json()))
-    const analyzer = new DnaAnalyzer(Rsnum, Genotype, Genoset)
+    const [Rsnum, Genotype, Genoset, Medicine] = await Promise.all(dataRequests.map(e => e.json()))
+    const MedicineIndex = {}
+    const NumMedicineIndex = {}
+    Medicine.forEach(e => {
+        MedicineIndex[e.id] = e
+        e.criteria.forEach(f => {
+            if (!NumMedicineIndex[f]) {
+                NumMedicineIndex[f] = [e.id]
+            } else {
+                NumMedicineIndex[f].push(e.id)
+            }
+        })
+    })
+    const analyzer = new DnaAnalyzer(Rsnum, Genotype, Genoset, MedicineIndex)
     const fileInput = document.getElementById('file')
     //const outputArea = document.getElementById('output')
     console.log('Rsnum:', Rsnum.length)
     console.log('Genotype:', Genotype.length)
     console.log('Genoset:', Genoset.length)
+    console.log('Medicine:', Medicine.length)
     console.log('Loaded.')
     fileInput.disabled = false
     //outputArea.value = 'Output...'
+    
     console.outputRsnum = function(rsid, genotype, magnitude, repute, summary, mergedRsid) {
         const outputBody = document.getElementById('RsnumTableBody')
-        const Rs = 'Rs' + rsid
+        const Rs = 'rs' + rsid
         const MergedRs = 'rs' + mergedRsid
         const Gs = '(' + genotype.join(';') + ')'
         genotype = genotype.join(';')
-        const html = '<tr><td><a id="rs'+rsid+'">'
+        const html = '<tr><td><a id="' + Rs +'">'
             + rsid +'</td><td></a>'
             + genotype.substr(0,11) + (genotype.length > 11 ? '...' : '') +'</td><td>'
             + (magnitude === undefined ? 'Undefined' : magnitude) + '</td><td>'
@@ -183,20 +197,56 @@ window.addEventListener('load', async event => { //{{{
             + '<a target="blank" href="https://www.snpedia.com/index.php/' + Rs + Gs + '">' + Gs.substr(0,6) + (Gs.length > 6 ? '...' : '') + '</a>'
             //+ (mergedRsid ? ', <a href="#' + MergedRs +'">#' + MergedRs + '</a>' : '')
             + '<td></tr>'
+        
         outputBody.innerHTML += html
+        
+        /*if (rsid == 15793179) {
+            outputBody.innerHTML += "Dedly mutation for chickens detected. Do not worry unless you are a chicken!"
+        }*/
+        if (NumMedicineIndex[Rs]) {
+            const outputBodyPharm = document.getElementById('PharmacogeneticsTableBody')
+            NumMedicineIndex[Rs].forEach(e => {
+                const html = '<tr><td>'
+                    + '<a target="blank" href="https://www.snpedia.com/index.php/' + e + '">' + e + '</a></td><td>'
+                    + (magnitude === undefined ? 'Undefined' : magnitude) + '</td><td>'
+                    + (repute === undefined ? 'Undefined' : repute) + '</td><td>'
+                    + (summary === undefined ? '' : summary) + (mergedRsid ? ' Merged with above: <a href="#' + MergedRs +'">#' + MergedRs + '</a>.' : '') + '</td><td>'
+                    + '<a target="blank" href="https://www.snpedia.com/index.php/' + Rs +'">' + Rs + '</a>'
+                    + '<a target="blank" href="https://www.snpedia.com/index.php/' + Rs + Gs + '">' + Gs.substr(0,6) + (Gs.length > 6 ? '...' : '') + '</a>'
+                    + '<td></tr>'
+                outputBodyPharm.innerHTML += html
+            })
+        }
     }
-    console.outputGenoset = function(gsid, magnitude, repute, summary) {
+
+    console.outputGenoset = function(gsid, magnitude, repute, summary, output) {
         const outputBody = document.getElementById('GenosetTableBody')
-        const html = '<tr><td><a id="gs'+gsid+'">'
+        const Gs = 'gs' + gsid
+        const html = '<tr><td><a id="' + Gs + '">'
             + gsid +'</td><td></a>'
             + (magnitude === undefined ? 'Undefined' : magnitude) + '</td><td>'
             + (repute === undefined ? 'Undefined' : repute) + '</td><td>'
-            + (summary === undefined ? '' : summary) + '</td><td>'
-            + '<a target="blank" href="https://www.snpedia.com/index.php/Gs' + gsid +'">Gs' + gsid + '</a>'
+            + (summary === undefined ? '' : summary) + '<h3>Criteria:</h3><p>' + output + '</p></td><td>'
+            + '<a target="blank" href="https://www.snpedia.com/index.php/' + Gs + '">' + Gs + '</a>'
             + '<td></tr>'
         
         outputBody.innerHTML += html
+        
+        if (NumMedicineIndex[Gs]) {
+            const outputBodyPharm = document.getElementById('PharmacogeneticsTableBody')
+            NumMedicineIndex[Gs].forEach(e => {
+                const html = '<tr><td>'
+                    + '<a target="blank" href="https://www.snpedia.com/index.php/' + e + '">' + e + '</a></td><td>'
+                    + (magnitude === undefined ? 'Undefined' : magnitude) + '</td><td>'
+                    + (repute === undefined ? 'Undefined' : repute) + '</td><td>'
+                    + (summary === undefined ? '' : summary) + '<h3>Criteria:</h3><p>' + output + '</p></td><td>'
+                    + '<a target="blank" href="https://www.snpedia.com/index.php/' + Gs + '">' + Gs + '</a>'
+                    + '<td></tr>'
+                outputBodyPharm.innerHTML += html
+            })
+        }
     }
+
     const searchFields = ['searchRsid', 'searchGenotype', 'searchMagnitude', 'searchRepute', 'searchSummary', 'searchSource']
     searchFields.forEach((e,j) => {
         const outputBody = document.getElementById('RsnumTablebody')

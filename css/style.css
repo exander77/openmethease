@@ -65,6 +65,16 @@ body {
 * {
     font-family: 'Verdana', sans-serif;
 }
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
+b {
+    font-weight: bold;
+}
+
 #log {
     width: 240px;
     height: calc(100vh - 75px);
@@ -73,8 +83,8 @@ body {
 }
 .tabcontent {
     width: calc(100% - 246px);
+    max-width: calc(100% - 246px);
     float: right;
-    max-height: calc(100vh - 84px);
     display: table;
     _overflow-y: scroll;
 }
@@ -104,6 +114,9 @@ h2 {
     font-size: 120%;
     font-weight: bold;
     margin: 10px 0;
+}
+h3 {
+    font-weight: bold;
 }
 .tabcontent tbody {
 }
