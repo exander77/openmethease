@@ -71,8 +71,14 @@ body {
 .green {
     color: green;
 }
+.black {
+    color: black;
+}
 b {
     font-weight: bold;
+}
+i {
+    font-style: italic;
 }
 
 #log {

@@ -7,17 +7,20 @@ const readline = require('readline')
 const args = process.argv.slice(2)
 
 const Rsnum = JSON.parse(fs.readFileSync('data/Rsnum.json'))
+const RsnumI = JSON.parse(fs.readFileSync('data/RsnumI.json'))
 const Genotype = JSON.parse(fs.readFileSync('data/Genotype.json'))
+const GenotypeI = JSON.parse(fs.readFileSync('data/GenotypeI.json'))
 const Genoset = JSON.parse(fs.readFileSync('data/Genoset.json'))
     
-const analyzer = new DnaAnalyzer(Rsnum, Genotype, Genoset)
+const analyzer = new DnaAnalyzer(Rsnum, RsnumI, Genotype, GenotypeI, Genoset)
 console.outputRsnum = function(rsid, genotype, magnitude, repute, summary, mergedRsid) {
     const Rs = 'rs' + rsid
     const Gs = '(' + genotype.join(';') + ')'
     console.log(Rs + Gs)
 }
-console.outputGenoset = function(gsid, magnitude, repute, summary) {
+console.outputGenoset = function(gsid, magnitude, repute, summary, output) {
     console.log('gs' + gsid)
+    console.log('output' + output)
 }
 
 class LineReader {
