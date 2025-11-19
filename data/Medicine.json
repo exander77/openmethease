@@ -1,0 +1,3176 @@
+[
+  {
+    "id": "6-Mercaptopurine",
+    "criteria": [
+      "rs1800460",
+      "rs1142345",
+      "rs1800462",
+      "rs1127354"
+    ],
+    "related": [
+      "6-mercaptopurine"
+    ]
+  },
+  {
+    "id": "5-fluorouracil",
+    "criteria": [
+      "rs3918290",
+      "gs313",
+      "gs312",
+      "gs306"
+    ],
+    "related": [
+      "5-fluorouracil",
+      "dpyd",
+      "tyms",
+      "5-fluorouracil",
+      "dpyd",
+      "dpyd",
+      "dpyd"
+    ]
+  },
+  {
+    "id": "ACE_Inhibitors",
+    "criteria": [],
+    "related": [
+      "hypertension"
+    ]
+  },
+  {
+    "id": "17_alpha-hydroxyprogesterone_caproate",
+    "criteria": [
+      "rs471767",
+      "rs578029",
+      "rs503362",
+      "rs666553"
+    ],
+    "related": [
+      "17 alpha-hydroxyprogesterone caproate"
+    ]
+  },
+  {
+    "id": "Abacavir",
+    "criteria": [
+      "rs2395029"
+    ],
+    "related": [
+      "abacavir",
+      "ziagen",
+      "trizivir",
+      "kivexa/epzicom",
+      "abacavir"
+    ]
+  },
+  {
+    "id": "Abilify",
+    "criteria": [],
+    "related": [
+      "abilify",
+      "risperdal",
+      "seroquel",
+      "prozac",
+      "wellbutrin",
+      "effexor",
+      "paxil",
+      "zoloft",
+      "lamictal",
+      "depakote",
+      "trileptal",
+      "klonopin",
+      "topamax",
+      "concerta",
+      "cyp2c9",
+      "cyp2c19",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Acetaminophen",
+    "criteria": [
+      "rs1467558"
+    ],
+    "related": [
+      "acetaminophen",
+      "tylenol"
+    ]
+  },
+  {
+    "id": "Acetanilide",
+    "criteria": [],
+    "related": [
+      "acetanilide"
+    ]
+  },
+  {
+    "id": "Abiraterone_acetate",
+    "criteria": [
+      "rs2486758"
+    ],
+    "related": [
+      "abiraterone acetate",
+      "zytiga",
+      "cyp17a1"
+    ]
+  },
+  {
+    "id": "Alertec",
+    "criteria": [],
+    "related": [
+      "alertec",
+      "modafinil"
+    ]
+  },
+  {
+    "id": "Afamelanotide",
+    "criteria": [],
+    "related": [
+      "afamelanotide",
+      "scenesse",
+      "erythropoietic protoporphyria",
+      "vitiligo"
+    ]
+  },
+  {
+    "id": "Aleve",
+    "criteria": [],
+    "related": [
+      "aleve",
+      "naproxen"
+    ]
+  },
+  {
+    "id": "Anafranil",
+    "criteria": [
+      "rs3892097"
+    ],
+    "related": [
+      "anafranil",
+      "antidepressant",
+      "clomipramine",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Aspirin",
+    "criteria": [
+      "rs3798220",
+      "rs5918",
+      "rs6983267",
+      "rs10505806",
+      "rs16973225",
+      "rs2965667",
+      "rs2070959",
+      "rs1105879",
+      "rs6759892",
+      "rs1133607",
+      "rs1799853",
+      "rs1057910",
+      "rs28371686",
+      "rs9332131",
+      "rs28371685",
+      "rs3842787",
+      "rs5789",
+      "rs3842789",
+      "rs3842792"
+    ],
+    "related": [
+      "aspirin",
+      "aspirin",
+      "colorectal cancer",
+      "colorectal cancer",
+      "ugt1a6",
+      "acsm2",
+      "cyp2c9",
+      "pgts1"
+    ]
+  },
+  {
+    "id": "Allegra",
+    "criteria": [],
+    "related": []
+  },
+  {
+    "id": "Amitriptyline",
+    "criteria": [
+      "rs2032583"
+    ],
+    "related": [
+      "depression",
+      "amitriptyline",
+      "elavil",
+      "tryptanol",
+      "endep",
+      "elatrol",
+      "tryptizol",
+      "trepiline",
+      "laroxyl",
+      "cyp2d6",
+      "amitriptyline",
+      "abcb1"
+    ]
+  },
+  {
+    "id": "Aralen",
+    "criteria": [],
+    "related": [
+      "aralen",
+      "chloroquine"
+    ]
+  },
+  {
+    "id": "Allopurinol",
+    "criteria": [
+      "rs2231142"
+    ],
+    "related": [
+      "allopurinol",
+      "gout",
+      "hla-b*5801",
+      "febuxostat",
+      "abcg2"
+    ]
+  },
+  {
+    "id": "Amlodipine",
+    "criteria": [
+      "rs5065",
+      "rs312481",
+      "rs3774426",
+      "rs527974"
+    ],
+    "related": [
+      "amlodipine",
+      "calcium channel blocker",
+      "hypertension",
+      "angina",
+      "norvasc"
+    ]
+  },
+  {
+    "id": "Antidepressants",
+    "criteria": [
+      "rs3892097",
+      "rs2032583",
+      "rs7997012"
+    ],
+    "related": [
+      "bupropion",
+      "ssri",
+      "paxil",
+      "depression",
+      "imipramine",
+      "tofranil",
+      "janimine",
+      "amitriptyline",
+      "nortriptyline",
+      "aventyl",
+      "pamelor",
+      "desipramine",
+      "norpramin",
+      "pertofrane",
+      "clomipramine",
+      "anafranil",
+      "cyp2d6",
+      "cyp2d6",
+      "cyp2c19",
+      "cyp1a2",
+      "cyp2c9",
+      "amitriptyline",
+      "bupropion",
+      "citalopram",
+      "clomipramine",
+      "desipramine",
+      "doxepin",
+      "duloxetine",
+      "escitalopram",
+      "fluoxetine",
+      "fluvoxamine",
+      "imipramine",
+      "mirtazapine",
+      "moclobemide",
+      "nortriptyline",
+      "paroxetine",
+      "sertraline",
+      "trazodone",
+      "venlafaxine",
+      "abcb1",
+      "htr2a"
+    ]
+  },
+  {
+    "id": "Atorvastatin",
+    "criteria": [
+      "rs20455",
+      "rs7412(c;c)",
+      "rs7412(c;t)",
+      "rs7412(t;t)"
+    ],
+    "related": [
+      "atorvastatin",
+      "statin",
+      "lipitor",
+      "atorvastatin",
+      "statin",
+      "apoe",
+      "apoe",
+      "apoe"
+    ]
+  },
+  {
+    "id": "Atomoxetine",
+    "criteria": [],
+    "related": [
+      "atomoxetine",
+      "strattera",
+      "attention deficit hyperactivity disorder",
+      "cyp2d6",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Azathioprine",
+    "criteria": [
+      "rs1800460",
+      "rs1142345",
+      "rs1800462",
+      "rs29001611"
+    ],
+    "related": [
+      "tpmt"
+    ]
+  },
+  {
+    "id": "Aventyl",
+    "criteria": [
+      "rs3892097"
+    ],
+    "related": [
+      "aventyl",
+      "antidepressant",
+      "nortriptyline",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Betaloc",
+    "criteria": [],
+    "related": [
+      "betaloc",
+      "metoprolol",
+      "beta blocker",
+      "metoprolol"
+    ]
+  },
+  {
+    "id": "Antipsychotics",
+    "criteria": [],
+    "related": [
+      "schizophrenia",
+      "bipolar disorder",
+      "cyp2d6",
+      "cyp2c19",
+      "cyp1a2",
+      "aripiprazole",
+      "chlorpromazine",
+      "clozapine",
+      "haloperidol",
+      "olanzapine",
+      "perphenazine",
+      "quetiapine",
+      "risperidone",
+      "thioridazine",
+      "ziprasidone"
+    ]
+  },
+  {
+    "id": "Betaine",
+    "criteria": [],
+    "related": []
+  },
+  {
+    "id": "Beta_blocker",
+    "criteria": [
+      "rs1801252",
+      "rs1801253",
+      "rs3892097?"
+    ],
+    "related": [
+      "angina",
+      "high blood pressure",
+      "congestive heart failure",
+      "tachyarrhythmia",
+      "migraines",
+      "bucindolol",
+      "bisoprolol",
+      "metoprolol",
+      "carvedilol",
+      "adrenaline",
+      "beta blocker",
+      "metoprolol",
+      "bradycardia"
+    ]
+  },
+  {
+    "id": "Bleomycin",
+    "criteria": [
+      "rs1050565"
+    ],
+    "related": [
+      "bleomycin",
+      "testicular cancer",
+      "blmh"
+    ]
+  },
+  {
+    "id": "Capecitabine",
+    "criteria": [
+      "gs313",
+      "gs312",
+      "gs306"
+    ],
+    "related": [
+      "capecitabine",
+      "xeloda",
+      "breast cancer",
+      "gastric cancer",
+      "colorectal cancer",
+      "docetaxel",
+      "dpyd",
+      "5-fluorouracil",
+      "tpmt",
+      "dpyd",
+      "dpyd",
+      "dpyd"
+    ]
+  },
+  {
+    "id": "Camptosar",
+    "criteria": [
+      "rs34815109",
+      "rs34983651",
+      "rs35600288",
+      "rs5839491"
+    ],
+    "related": [
+      "camptosar",
+      "irinotecan",
+      "colorectal cancer",
+      "ugt1a1",
+      "camptosar"
+    ]
+  },
+  {
+    "id": "Caffeine",
+    "criteria": [
+      "rs2470893"
+    ],
+    "related": [
+      "caffeine",
+      "rs4410790",
+      "caffeine",
+      "cyp1a2",
+      "myocardial infarction",
+      "hypertension",
+      "breast cancer",
+      "brca1",
+      "alzheimer's disease",
+      "caffeine",
+      "alzheimer's disease"
+    ]
+  },
+  {
+    "id": "Budesonide",
+    "criteria": [
+      "rs2240017"
+    ],
+    "related": [
+      "budesonide",
+      "rhinocort",
+      "asthma",
+      "allergies",
+      "rhinitis",
+      "inflammatory bowel disease",
+      "tbx21",
+      "asthma",
+      "budesonide"
+    ]
+  },
+  {
+    "id": "Bupropion",
+    "criteria": [
+      "rs1800497",
+      "rs1800497(c;c)",
+      "rs1800497(c;t)",
+      "rs1800497(t;t)"
+    ],
+    "related": [
+      "bupropion",
+      "wellbutrin",
+      "zyban",
+      "bupropion",
+      "drd2",
+      "bupropion",
+      "zyban",
+      "zyban",
+      "chantix",
+      "varenicline",
+      "chantix",
+      "abilify",
+      "risperdal",
+      "seroquel",
+      "prozac",
+      "wellbutrin",
+      "effexor",
+      "paxil",
+      "zoloft",
+      "lamictal",
+      "depakote",
+      "trileptal",
+      "klonopin",
+      "topamax",
+      "concerta",
+      "cyp2c9",
+      "cyp2c19",
+      "cyp2d6",
+      "ankk1",
+      "ankk1",
+      "ankk1"
+    ]
+  },
+  {
+    "id": "Bucindolol",
+    "criteria": [
+      "rs1801253",
+      "rs1801253"
+    ],
+    "related": [
+      "beta blockers",
+      "hypertension"
+    ]
+  },
+  {
+    "id": "Carbamazepine",
+    "criteria": [
+      "rs3909184",
+      "rs2844682",
+      "rs1061235",
+      "rs2273697"
+    ],
+    "related": [
+      "carbamazepine",
+      "epilepsy",
+      "bipolar disorder",
+      "carbatrol",
+      "tegretol",
+      "hla-b*1502",
+      "carbamazepine",
+      "hla-b*1502",
+      "carbamazepine",
+      "carbamazepine",
+      "abcc2"
+    ]
+  },
+  {
+    "id": "Celecoxib",
+    "criteria": [
+      "rs1057910"
+    ],
+    "related": [
+      "celecoxib",
+      "celebrex",
+      "cyp2c9",
+      "fluconazole",
+      "celecoxib",
+      "cyp2c9",
+      "cyp2c9",
+      "celecoxib"
+    ]
+  },
+  {
+    "id": "Cetuximab",
+    "criteria": [
+      "rs396991"
+    ],
+    "related": [
+      "cetuximab",
+      "colorectal cancer",
+      "head and neck cancer",
+      "erbitux",
+      "cetuximab",
+      "fcgr3a"
+    ]
+  },
+  {
+    "id": "Carvedilol",
+    "criteria": [
+      "rs1801253"
+    ],
+    "related": [
+      "carvedilol",
+      "beta blocker"
+    ]
+  },
+  {
+    "id": "Celexa",
+    "criteria": [
+      "rs2032583"
+    ],
+    "related": [
+      "celexa",
+      "citalopram",
+      "antidepressant",
+      "creb1",
+      "celexa",
+      "abcb1"
+    ]
+  },
+  {
+    "id": "Celebrex",
+    "criteria": [],
+    "related": [
+      "celecoxib"
+    ]
+  },
+  {
+    "id": "Chloroquine",
+    "criteria": [
+      "gs309",
+      "gs307",
+      "gs308"
+    ],
+    "related": [
+      "chloroquine",
+      "chloroquine",
+      "aralen",
+      "g6pd",
+      "g6pd",
+      "g6pd",
+      "g6pd"
+    ]
+  },
+  {
+    "id": "Chlorthalidone",
+    "criteria": [
+      "rs5065"
+    ],
+    "related": [
+      "chlorthalidone",
+      "chlortalidone",
+      "hypertension"
+    ]
+  },
+  {
+    "id": "Cisplatin",
+    "criteria": [],
+    "related": [
+      "cisplatin",
+      "pemetrexed"
+    ]
+  },
+  {
+    "id": "Chlorpropamide",
+    "criteria": [
+      "gs309",
+      "gs307",
+      "gs308"
+    ],
+    "related": [
+      "chlorpropamide",
+      "type-2 diabetes",
+      "chlorpropamide",
+      "diabinese",
+      "g6pd",
+      "g6pd",
+      "g6pd",
+      "g6pd"
+    ]
+  },
+  {
+    "id": "Citalopram",
+    "criteria": [
+      "rs2032583",
+      "rs7997012",
+      "rs1954787",
+      "rs2518224",
+      "rs4825476",
+      "rs4675690",
+      "rs7569963"
+    ],
+    "related": [
+      "depression",
+      "celexa",
+      "abcb1",
+      "htr2a",
+      "grik4",
+      "grik2",
+      "gria3",
+      "creb1"
+    ]
+  },
+  {
+    "id": "Clopidogrel",
+    "criteria": [
+      "rs4244285",
+      "rs12248560",
+      "rs28399504",
+      "rs41291556",
+      "rs72558184",
+      "rs4986893",
+      "rs4244285",
+      "rs72558186",
+      "rs56337013"
+    ],
+    "related": [
+      "clopidogrel",
+      "plavix",
+      "heart disease",
+      "cyp2c19",
+      "clopidogrel",
+      "cyp2c9",
+      "cyp2c9",
+      "cyp2c9",
+      "clopidogrel",
+      "cyp2c9",
+      "clopidogrel",
+      "clopidogrel",
+      "clopidogrel",
+      "prasugrel",
+      "ticagrelor",
+      "clopidogrel",
+      "cyp2c19",
+      "simvastatin",
+      "clopidogrel",
+      "warfarin",
+      "cpmc",
+      "cyp2c19",
+      "clopidogrel"
+    ]
+  },
+  {
+    "id": "Cipralex",
+    "criteria": [],
+    "related": [
+      "cipralex",
+      "escitalopram"
+    ]
+  },
+  {
+    "id": "Clomipramine",
+    "criteria": [
+      "rs3892097"
+    ],
+    "related": [
+      "clomipramine",
+      "antidepressant",
+      "anafranil",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Ciprofloxacin",
+    "criteria": [],
+    "related": [
+      "ciprofloxacin",
+      "cyp1a2"
+    ]
+  },
+  {
+    "id": "Concerta",
+    "criteria": [],
+    "related": [
+      "abilify",
+      "risperdal",
+      "seroquel",
+      "prozac",
+      "wellbutrin",
+      "effexor",
+      "paxil",
+      "zoloft",
+      "lamictal",
+      "depakote",
+      "trileptal",
+      "klonopin",
+      "topamax",
+      "concerta",
+      "cyp2c9",
+      "cyp2c19",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Codeine",
+    "criteria": [],
+    "related": [
+      "cyp2d6",
+      "morphine",
+      "morphine",
+      "snp",
+      "cnv"
+    ]
+  },
+  {
+    "id": "Crestor",
+    "criteria": [
+      "rs20455"
+    ],
+    "related": [
+      "crestor",
+      "statin",
+      "rosuvastatin",
+      "crestor",
+      "statin"
+    ]
+  },
+  {
+    "id": "Corvitol",
+    "criteria": [],
+    "related": [
+      "corvitol",
+      "metoprolol",
+      "beta blocker",
+      "metoprolol"
+    ]
+  },
+  {
+    "id": "Dabigatran",
+    "criteria": [],
+    "related": []
+  },
+  {
+    "id": "Depade",
+    "criteria": [],
+    "related": [
+      "depade",
+      "naltrexone",
+      "naltrexone"
+    ]
+  },
+  {
+    "id": "Clozapine",
+    "criteria": [
+      "rs5443",
+      "rs4606"
+    ],
+    "related": [
+      "clozapine",
+      "antipsychotic",
+      "schizophrenia",
+      "clozapine",
+      "clozapine",
+      "dbsnp"
+    ]
+  },
+  {
+    "id": "Dapsone",
+    "criteria": [
+      "rs2844573"
+    ],
+    "related": [
+      "leprosy"
+    ]
+  },
+  {
+    "id": "Cytoxan",
+    "criteria": [],
+    "related": [
+      "cytoxan",
+      "cyclophosphamide",
+      "cyclophosphamide"
+    ]
+  },
+  {
+    "id": "Debrisoquine",
+    "criteria": [],
+    "related": [
+      "debrisoquine",
+      "cyp2d6",
+      "debrisoquine",
+      "cyp2d6",
+      "debrisoquine"
+    ]
+  },
+  {
+    "id": "Cyclophosphamide",
+    "criteria": [
+      "gsh",
+      "gstp1",
+      "rs9561778"
+    ],
+    "related": [
+      "cyclophosphamide",
+      "cytoxan",
+      "chemotherapy",
+      "adriamycin",
+      "5-fluorouracil",
+      "breast cancer",
+      "aldh1a",
+      "abcc2",
+      "abcc4",
+      "cyp2b6",
+      "cyp2c9",
+      "abcc4"
+    ]
+  },
+  {
+    "id": "Desipramine",
+    "criteria": [
+      "rs3892097"
+    ],
+    "related": [
+      "desipramine",
+      "antidepressant",
+      "norpramin",
+      "pertofrane",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Dextromethorphan",
+    "criteria": [],
+    "related": []
+  },
+  {
+    "id": "Depakote",
+    "criteria": [],
+    "related": [
+      "abilify",
+      "risperdal",
+      "seroquel",
+      "prozac",
+      "wellbutrin",
+      "effexor",
+      "paxil",
+      "zoloft",
+      "lamictal",
+      "depakote",
+      "trileptal",
+      "klonopin",
+      "topamax",
+      "concerta",
+      "cyp2c9",
+      "cyp2c19",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Disulfiram",
+    "criteria": [],
+    "related": [
+      "disulfiram",
+      "alcohol dependence",
+      "asian flush",
+      "asian flush"
+    ]
+  },
+  {
+    "id": "Efavirenz",
+    "criteria": [],
+    "related": [
+      "efavirenz",
+      "sustiva",
+      "cyp2b6",
+      "efavirenz"
+    ]
+  },
+  {
+    "id": "Effexor",
+    "criteria": [
+      "rs2032583"
+    ],
+    "related": [
+      "effexor",
+      "venlafaxine",
+      "depression",
+      "cyp2d6",
+      "cyp3a4",
+      "cyp2d6",
+      "effexor",
+      "cyp2d6",
+      "abcb1",
+      "abilify",
+      "risperdal",
+      "seroquel",
+      "prozac",
+      "wellbutrin",
+      "effexor",
+      "paxil",
+      "zoloft",
+      "lamictal",
+      "depakote",
+      "trileptal",
+      "klonopin",
+      "topamax",
+      "concerta",
+      "cyp2c9",
+      "cyp2c19",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Docetaxel",
+    "criteria": [
+      "rs12762549",
+      "rs11045585"
+    ],
+    "related": [
+      "docetaxel",
+      "breast cancer",
+      "ovarian cancer",
+      "taxotere",
+      "docetaxel"
+    ]
+  },
+  {
+    "id": "Elatrol",
+    "criteria": [
+      "rs2032583"
+    ],
+    "related": [
+      "elatrol",
+      "antidepressant",
+      "amitriptyline",
+      "abcb1"
+    ]
+  },
+  {
+    "id": "Dofetilide",
+    "criteria": [
+      "rs17221854"
+    ],
+    "related": [
+      "dofetilide",
+      "tikosyn",
+      "dofetilide"
+    ]
+  },
+  {
+    "id": "Endep",
+    "criteria": [
+      "rs2032583"
+    ],
+    "related": [
+      "endep",
+      "antidepressant",
+      "amitriptyline",
+      "abcb1"
+    ]
+  },
+  {
+    "id": "Estradiol",
+    "criteria": [],
+    "related": [
+      "bone mineral density"
+    ]
+  },
+  {
+    "id": "Evolocumab",
+    "criteria": [],
+    "related": [
+      "hyperlipidemia",
+      "pcsk9"
+    ]
+  },
+  {
+    "id": "Esomeprazole",
+    "criteria": [],
+    "related": [
+      "esomeprazole",
+      "nexium",
+      "ulcer",
+      "cyp2c19",
+      "cyp2c19"
+    ]
+  },
+  {
+    "id": "Elavil",
+    "criteria": [
+      "rs2032583"
+    ],
+    "related": [
+      "elavil",
+      "antidepressant",
+      "amitriptyline",
+      "abcb1"
+    ]
+  },
+  {
+    "id": "Escitalopram",
+    "criteria": [
+      "rs2032583",
+      "rs1045642",
+      "rs25531",
+      "rs25532",
+      "rs2020933",
+      "rs25531",
+      "rs6311"
+    ],
+    "related": [
+      "escitalopram",
+      "citalopram",
+      "lexapro",
+      "cipralex",
+      "depression",
+      "anxiety",
+      "5-httlpr"
+    ]
+  },
+  {
+    "id": "Everolimus",
+    "criteria": [],
+    "related": [
+      "everolimus",
+      "certican",
+      "afinitor",
+      "rapamycin",
+      "sirolimus",
+      "cyp3a4",
+      "cyp3a5"
+    ]
+  },
+  {
+    "id": "Finasteride",
+    "criteria": [
+      "rs279858",
+      "rs279858"
+    ],
+    "related": [
+      "finasteride",
+      "baldness",
+      "finasteride"
+    ]
+  },
+  {
+    "id": "Erbitux",
+    "criteria": [
+      "rs396991"
+    ],
+    "related": [
+      "erbitux",
+      "cetuximab",
+      "colorectal cancer",
+      "head and neck cancer",
+      "erbitux",
+      "fcgr3a"
+    ]
+  },
+  {
+    "id": "Flucloxacillin",
+    "criteria": [
+      "rs2395029"
+    ],
+    "related": [
+      "flucloxacillin",
+      "flucloxacillin",
+      "flopen",
+      "floxapen",
+      "flucloxacillin"
+    ]
+  },
+  {
+    "id": "Fluoropyrimidines",
+    "criteria": [
+      "rs3918290",
+      "rs141044036",
+      "rs72549308",
+      "rs1801268",
+      "rs145773863",
+      "rs55674432",
+      "rs137999090",
+      "rs72547601",
+      "rs59086055",
+      "rs55886062",
+      "rs1801266",
+      "rs72549307",
+      "rs111858276",
+      "rs138616379",
+      "rs183385770",
+      "rs72549304",
+      "rs67376798",
+      "rs112766203",
+      "rs143986398",
+      "rs183105782",
+      "rs115232898",
+      "rs1801160"
+    ],
+    "related": [
+      "5-fluorouracil",
+      "capecitabine",
+      "tegafur",
+      "fluoropyrimidines",
+      "dpyd",
+      "dpyd",
+      "dpyd"
+    ]
+  },
+  {
+    "id": "Febuxostat",
+    "criteria": [],
+    "related": [
+      "febuxostat",
+      "gout",
+      "allopurinol"
+    ]
+  },
+  {
+    "id": "Fluticasone_propionate",
+    "criteria": [
+      "rs242941"
+    ],
+    "related": [
+      "fluticasone propionate",
+      "asthma",
+      "flonase"
+    ]
+  },
+  {
+    "id": "Furazolidone",
+    "criteria": [],
+    "related": [
+      "furazolidone"
+    ]
+  },
+  {
+    "id": "Glimepiride",
+    "criteria": [
+      "gs309",
+      "gs307",
+      "gs308"
+    ],
+    "related": [
+      "glimepiride",
+      "amaryl",
+      "type-2 diabetes",
+      "g6pd",
+      "g6pd",
+      "g6pd"
+    ]
+  },
+  {
+    "id": "Gleevec",
+    "criteria": [],
+    "related": [
+      "sutent",
+      "gastrointestinal cancer"
+    ]
+  },
+  {
+    "id": "Ibuprofen",
+    "criteria": [
+      "rs1799853",
+      "rs10509681"
+    ],
+    "related": [
+      "nonsteroidal anti-inflammatory drug",
+      "rheumatoid arthritis",
+      "ibuprofen",
+      "aspirin",
+      "ibuprofen",
+      "ptgs2",
+      "alzheimer's disease",
+      "ibuprofen"
+    ]
+  },
+  {
+    "id": "Glipizide",
+    "criteria": [
+      "gs309",
+      "gs307",
+      "gs308"
+    ],
+    "related": [
+      "glipizide",
+      "glucotrol",
+      "glipizide",
+      "glucotrol",
+      "g6pd",
+      "g6pd",
+      "g6pd",
+      "g6pd"
+    ]
+  },
+  {
+    "id": "Gefitinib",
+    "criteria": [
+      "rs2231142"
+    ],
+    "related": [
+      "gefitinib",
+      "iressa",
+      "gefitinib",
+      "gefitinib"
+    ]
+  },
+  {
+    "id": "Herceptin",
+    "criteria": [
+      "rs351855"
+    ],
+    "related": [
+      "snp",
+      "herceptin",
+      "trastuzumab",
+      "breast cancer",
+      "her2"
+    ]
+  },
+  {
+    "id": "Glucotrol",
+    "criteria": [],
+    "related": [
+      "glucotrol",
+      "glipizide",
+      "glipizide"
+    ]
+  },
+  {
+    "id": "Glyburide",
+    "criteria": [
+      "gs309",
+      "gs307",
+      "gs308"
+    ],
+    "related": [
+      "glibenclamide",
+      "glyburide",
+      "type-2 diabetes",
+      "g6pd",
+      "g6pd",
+      "g6pd"
+    ]
+  },
+  {
+    "id": "Infliximab",
+    "criteria": [
+      "rs1801274"
+    ],
+    "related": [
+      "infliximab",
+      "psoriasis",
+      "crohn's disease",
+      "ankylosing spondylitis",
+      "psoriatic arthritis",
+      "rheumatoid arthritis",
+      "sarcoidosis",
+      "ulcerative colitis",
+      "remicade",
+      "infliximab",
+      "fcgr2a"
+    ]
+  },
+  {
+    "id": "Imipramine",
+    "criteria": [
+      "rs3892097"
+    ],
+    "related": [
+      "imipramine",
+      "antidepressant",
+      "tofranil",
+      "janimine",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Interferon",
+    "criteria": [],
+    "related": [
+      "interferon"
+    ]
+  },
+  {
+    "id": "Janimine",
+    "criteria": [
+      "rs3892097"
+    ],
+    "related": [
+      "janimine",
+      "antidepressant",
+      "imipramine",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Kivexa_Epzicom",
+    "criteria": [],
+    "related": [
+      "kivexa/epzicom",
+      "abacavir",
+      "abacavir",
+      "abacavir"
+    ]
+  },
+  {
+    "id": "Ivacaftor",
+    "criteria": [
+      "rs75527207"
+    ],
+    "related": [
+      "ivacaftor",
+      "kalydeco",
+      "cystic fibrosis"
+    ]
+  },
+  {
+    "id": "Irinotecan",
+    "criteria": [
+      "rs34815109",
+      "rs34983651",
+      "rs35600288",
+      "rs5839491"
+    ],
+    "related": [
+      "irinotecan",
+      "colon cancer",
+      "camptosar",
+      "ugt1a1",
+      "irinotecan"
+    ]
+  },
+  {
+    "id": "Kalydeco",
+    "criteria": [
+      "rs75527207"
+    ],
+    "related": [
+      "kalydeco",
+      "ivacaftor",
+      "cystic fibrosis"
+    ]
+  },
+  {
+    "id": "Iressa",
+    "criteria": [
+      "rs2231142"
+    ],
+    "related": [
+      "iressa",
+      "gefitinib",
+      "iressa"
+    ]
+  },
+  {
+    "id": "Lamictal",
+    "criteria": [],
+    "related": [
+      "abilify",
+      "risperdal",
+      "seroquel",
+      "prozac",
+      "wellbutrin",
+      "effexor",
+      "paxil",
+      "zoloft",
+      "lamictal",
+      "depakote",
+      "trileptal",
+      "klonopin",
+      "topamax",
+      "concerta",
+      "cyp2c9",
+      "cyp2c19",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Klonopin",
+    "criteria": [],
+    "related": [
+      "abilify",
+      "risperdal",
+      "seroquel",
+      "prozac",
+      "wellbutrin",
+      "effexor",
+      "paxil",
+      "zoloft",
+      "lamictal",
+      "depakote",
+      "trileptal",
+      "klonopin",
+      "topamax",
+      "concerta",
+      "cyp2c9",
+      "cyp2c19",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Isoniazid",
+    "criteria": [
+      "gs138",
+      "gs139",
+      "gs140"
+    ],
+    "related": [
+      "isoniazid",
+      "tuberculosis",
+      "nat2",
+      "nat2",
+      "isoniazid",
+      "promethease"
+    ]
+  },
+  {
+    "id": "Levodopa",
+    "criteria": [],
+    "related": [
+      "parkinson's disease",
+      "comt",
+      "levodopa",
+      "parkinson's disease"
+    ]
+  },
+  {
+    "id": "Lexapro",
+    "criteria": [],
+    "related": [
+      "lexapro",
+      "escitalopram"
+    ]
+  },
+  {
+    "id": "Laroxyl",
+    "criteria": [
+      "rs2032583"
+    ],
+    "related": [
+      "laroxyl",
+      "antidepressant",
+      "amitriptyline",
+      "abcb1"
+    ]
+  },
+  {
+    "id": "Lansoprazole",
+    "criteria": [],
+    "related": [
+      "lansoprazole",
+      "prevacid",
+      "ulcer",
+      "acid reflux disease",
+      "heartburn",
+      "cyp2c19",
+      "cyp2c19",
+      "cyp2c19",
+      "heartburn"
+    ]
+  },
+  {
+    "id": "Lidocaine",
+    "criteria": [
+      "gs309",
+      "gs307",
+      "gs308"
+    ],
+    "related": [
+      "lidocaine",
+      "g6pd",
+      "cyb5r1",
+      "cyb5r2",
+      "cyb5r3",
+      "cyb5r4",
+      "g6pd",
+      "g6pd",
+      "g6pd"
+    ]
+  },
+  {
+    "id": "Levothyroxine",
+    "criteria": [],
+    "related": [
+      "dio1",
+      "dio2",
+      "dio3",
+      "hypothyroidism",
+      "autoimmune thyroiditis",
+      "hashimoto's thyroiditis",
+      "thyroid cancer",
+      "liothyronine",
+      "category:is a medicine"
+    ]
+  },
+  {
+    "id": "Lopressor",
+    "criteria": [],
+    "related": [
+      "lopressor",
+      "metoprolol",
+      "beta blocker",
+      "metoprolol"
+    ]
+  },
+  {
+    "id": "MabThera",
+    "criteria": [
+      "rs396991"
+    ],
+    "related": [
+      "mabthera",
+      "rituximab",
+      "rituximab",
+      "mabthera",
+      "fcgr3a"
+    ]
+  },
+  {
+    "id": "Methadone",
+    "criteria": [
+      "rs1128503",
+      "rs1045642",
+      "rs1128503",
+      "rs73568641"
+    ],
+    "related": [
+      "methadone",
+      "dolophine",
+      "amidone",
+      "methadose",
+      "physeptone",
+      "heptadon",
+      "addiction",
+      "abcb1",
+      "oprm1"
+    ]
+  },
+  {
+    "id": "Lithium",
+    "criteria": [
+      "rs17026688",
+      "rs17026651",
+      "rs201973599",
+      "rs17026688"
+    ],
+    "related": [
+      "lithium",
+      "bipolar disorder",
+      "lithium",
+      "gadl1"
+    ]
+  },
+  {
+    "id": "Losec",
+    "criteria": [],
+    "related": [
+      "losec",
+      "omeprazole",
+      "ulcer",
+      "cyp2c19",
+      "cyp2c19"
+    ]
+  },
+  {
+    "id": "Lipitor",
+    "criteria": [
+      "rs20455"
+    ],
+    "related": [
+      "lipitor",
+      "statin",
+      "atorvastatin",
+      "lipitor",
+      "statin"
+    ]
+  },
+  {
+    "id": "Methamphetamine",
+    "criteria": [],
+    "related": []
+  },
+  {
+    "id": "Mafenide",
+    "criteria": [
+      "gs309",
+      "gs307",
+      "gs308"
+    ],
+    "related": [
+      "mafenide",
+      "sulfamylon",
+      "mafenide",
+      "mafenide",
+      "g6pd",
+      "g6pd",
+      "g6pd",
+      "g6pd"
+    ]
+  },
+  {
+    "id": "Metoprolol",
+    "criteria": [
+      "rs1801252",
+      "rs1801253",
+      "rs3892097",
+      "gs185"
+    ],
+    "related": [
+      "metoprolol",
+      "beta blocker",
+      "high blood pressure",
+      "metoprolol",
+      "lopressor",
+      "toprol-xl",
+      "seleken",
+      "minax",
+      "metrol",
+      "betaloc",
+      "neobloc",
+      "corvitol",
+      "adrb1",
+      "metoprolol",
+      "high blood pressure",
+      "blood pressure"
+    ]
+  },
+  {
+    "id": "Methotrexate",
+    "criteria": [],
+    "related": [
+      "methotrexate"
+    ]
+  },
+  {
+    "id": "Metformin",
+    "criteria": [
+      "rs11212617‎"
+    ],
+    "related": []
+  },
+  {
+    "id": "Metrol",
+    "criteria": [],
+    "related": [
+      "metrol",
+      "metoprolol",
+      "beta blocker",
+      "metoprolol"
+    ]
+  },
+  {
+    "id": "Nalidixic_acid",
+    "criteria": [],
+    "related": [
+      "nalidixic acid"
+    ]
+  },
+  {
+    "id": "Minax",
+    "criteria": [],
+    "related": [
+      "minax",
+      "metoprolol",
+      "beta blocker",
+      "metoprolol"
+    ]
+  },
+  {
+    "id": "Methylene_blue",
+    "criteria": [
+      "gs309",
+      "gs307",
+      "gs308"
+    ],
+    "related": [
+      "methylene blue",
+      "methemoglobinemia",
+      "methylene blue",
+      "g6pd",
+      "blvrb",
+      "g6pd",
+      "g6pd",
+      "g6pd"
+    ]
+  },
+  {
+    "id": "Moviprep",
+    "criteria": [
+      "gs309",
+      "gs307",
+      "gs308"
+    ],
+    "related": [
+      "g6pd",
+      "g6pd",
+      "g6pd",
+      "g6pd"
+    ]
+  },
+  {
+    "id": "Modafinil",
+    "criteria": [
+      "rs4680"
+    ],
+    "related": [
+      "modafinil",
+      "attention deficit hyperactivity disorder",
+      "depression",
+      "cocaine dependence",
+      "parkinson's disease",
+      "schizophrenia",
+      "modafinil",
+      "provigil",
+      "alertec"
+    ]
+  },
+  {
+    "id": "Morphine",
+    "criteria": [
+      "rs1799971"
+    ],
+    "related": [
+      "morphine",
+      "oprm1",
+      "abcb1",
+      "oprm1"
+    ]
+  },
+  {
+    "id": "Naltrexone",
+    "criteria": [
+      "rs1799971"
+    ],
+    "related": [
+      "naltrexone",
+      "alcohol dependence",
+      "revia",
+      "depade",
+      "vivitrol",
+      "naltrexone",
+      "oprm1"
+    ]
+  },
+  {
+    "id": "Neobloc",
+    "criteria": [
+      "rs1801252",
+      "rs1801253"
+    ],
+    "related": [
+      "neobloc",
+      "metoprolol",
+      "beta blocker",
+      "metoprolol",
+      "adrb1",
+      "neobloc",
+      "high blood pressure"
+    ]
+  },
+  {
+    "id": "Naproxen",
+    "criteria": [
+      "rs11572080"
+    ],
+    "related": [
+      "nsaid",
+      "cyp2c8",
+      "cyp2c9"
+    ]
+  },
+  {
+    "id": "Nivolumab",
+    "criteria": [
+      "rs2282055",
+      "rs4143815"
+    ],
+    "related": [
+      "nivolumab"
+    ]
+  },
+  {
+    "id": "Nexium",
+    "criteria": [],
+    "related": [
+      "nexium",
+      "esomeprazole",
+      "ulcer",
+      "cyp2c19",
+      "cyp2c19"
+    ]
+  },
+  {
+    "id": "Nitrofurantoin",
+    "criteria": [
+      "gs309",
+      "gs307",
+      "gs308"
+    ],
+    "related": [
+      "nitrofurantoin",
+      "macrobid",
+      "furadantin",
+      "furadantin",
+      "g6pd",
+      "primaquine",
+      "g6pd",
+      "g6pd",
+      "g6pd"
+    ]
+  },
+  {
+    "id": "Nonsteroidal_anti-inflammatory_drug",
+    "criteria": [],
+    "related": [
+      "nonsteroidal anti-inflammatory drug",
+      "nsaid",
+      "aspirin",
+      "diclofenac",
+      "ibuprofen",
+      "naproxen",
+      "sulindac"
+    ]
+  },
+  {
+    "id": "Nicotine",
+    "criteria": [
+      "rs4680",
+      "rs4680(a;a)",
+      "rs4680(a;g)",
+      "rs4680(g;g)"
+    ],
+    "related": [
+      "nicotine",
+      "nicotine",
+      "comt",
+      "comt",
+      "comt",
+      "comt"
+    ]
+  },
+  {
+    "id": "Omeprazole",
+    "criteria": [],
+    "related": [
+      "omeprazole",
+      "losec",
+      "prilosec",
+      "ulcer",
+      "cyp2c19",
+      "cyp2c19"
+    ]
+  },
+  {
+    "id": "Nortriptyline",
+    "criteria": [
+      "rs3892097"
+    ],
+    "related": [
+      "nortriptyline",
+      "antidepressant",
+      "aventyl",
+      "pamelor",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Norvasc",
+    "criteria": [],
+    "related": [
+      "norvasc",
+      "amlodipine",
+      "amlodipine"
+    ]
+  },
+  {
+    "id": "Olanzapine",
+    "criteria": [
+      "rs6280",
+      "rs7412",
+      "rs5092",
+      "rs4765623",
+      "rs3813929",
+      "rs518147"
+    ],
+    "related": [
+      "olanzapine",
+      "zyprexa",
+      "fluoxetine",
+      "symbyax",
+      "olanzapine",
+      "antipsychotic",
+      "schizophrenia",
+      "bipolar disorder",
+      "symbyax",
+      "bipolar disorder",
+      "http://en.wikipedia.org/wiki/olanzapine wikipedia",
+      "olanzapine",
+      "schizophrenia"
+    ]
+  },
+  {
+    "id": "Nyquil",
+    "criteria": [],
+    "related": [
+      "nyquil",
+      "acetaminophen",
+      "doxylamine succinate",
+      "dextromethorphan",
+      "nyquil",
+      "cyp2d6",
+      "dextromorphan"
+    ]
+  },
+  {
+    "id": "Pamaquine",
+    "criteria": [],
+    "related": [
+      "pamaquine",
+      "primaquine",
+      "g6pd"
+    ]
+  },
+  {
+    "id": "Paclitaxel",
+    "criteria": [],
+    "related": [
+      "paclitaxel",
+      "taxol",
+      "abraxane"
+    ]
+  },
+  {
+    "id": "Nuedexta",
+    "criteria": [],
+    "related": [
+      "nuedexta",
+      "dextromethorphan",
+      "quinidine"
+    ]
+  },
+  {
+    "id": "Paroxetine",
+    "criteria": [
+      "rs2032583",
+      "rs4680",
+      "rs6314"
+    ],
+    "related": [
+      "depression",
+      "paroxetine",
+      "paxil",
+      "seroxat",
+      "abcb1",
+      "comt",
+      "paroxetine",
+      "htr2a"
+    ]
+  },
+  {
+    "id": "Paxil",
+    "criteria": [
+      "rs2032583"
+    ],
+    "related": [
+      "depression",
+      "paxil",
+      "paroxetine",
+      "abcb1",
+      "abilify",
+      "risperdal",
+      "seroquel",
+      "prozac",
+      "wellbutrin",
+      "effexor",
+      "paxil",
+      "zoloft",
+      "lamictal",
+      "depakote",
+      "trileptal",
+      "klonopin",
+      "topamax",
+      "concerta",
+      "cyp2c9",
+      "cyp2c19",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Penicillin",
+    "criteria": [],
+    "related": [
+      "pmid 18538381",
+      "pmid 16315031"
+    ]
+  },
+  {
+    "id": "Placebo",
+    "criteria": [
+      "rs4680",
+      "rs4570625(g;g)",
+      "rs4570625",
+      "rs4570625",
+      "rs4565946",
+      "rs4570625",
+      "rs11178997"
+    ],
+    "related": []
+  },
+  {
+    "id": "Pembrolizumab",
+    "criteria": [],
+    "related": [
+      "pembrolizumab",
+      "keytruda",
+      "melanoma"
+    ]
+  },
+  {
+    "id": "Phenytoin",
+    "criteria": [
+      "rs1799853",
+      "rs1057910"
+    ],
+    "related": [
+      "phenytoin"
+    ]
+  },
+  {
+    "id": "Pravachol",
+    "criteria": [
+      "rs20455"
+    ],
+    "related": [
+      "pravachol",
+      "statin",
+      "pravastatin",
+      "pravachol",
+      "statin"
+    ]
+  },
+  {
+    "id": "Phytoestrogens",
+    "criteria": [
+      "rs2987983|some forms"
+    ],
+    "related": [
+      "prostate cancer"
+    ]
+  },
+  {
+    "id": "Prevacid",
+    "criteria": [],
+    "related": [
+      "prevacid",
+      "lansoprazole",
+      "ulcer",
+      "acid reflux disease",
+      "heartburn",
+      "cyp2c19",
+      "cyp2c19"
+    ]
+  },
+  {
+    "id": "Prilosec",
+    "criteria": [],
+    "related": [
+      "prilosec",
+      "omeprazole",
+      "ulcer",
+      "cyp2c19",
+      "cyp2c19"
+    ]
+  },
+  {
+    "id": "Pravastatin",
+    "criteria": [
+      "rs20455"
+    ],
+    "related": [
+      "pravastatin",
+      "statin",
+      "pravachol",
+      "selektine",
+      "pravastatin",
+      "statin"
+    ]
+  },
+  {
+    "id": "Primaquine",
+    "criteria": [
+      "gs309",
+      "gs307",
+      "gs308"
+    ],
+    "related": [
+      "primaquine",
+      "primaquine",
+      "g6pd",
+      "g6pd",
+      "g6pd",
+      "g6pd",
+      "g6pd"
+    ]
+  },
+  {
+    "id": "Pegloticase",
+    "criteria": [
+      "gs309",
+      "gs307",
+      "gs308"
+    ],
+    "related": [
+      "pegloticase",
+      "krystexxa",
+      "pegloticase",
+      "g6pd",
+      "g6pd",
+      "g6pd",
+      "g6pd",
+      "g6pd"
+    ]
+  },
+  {
+    "id": "Prozac",
+    "criteria": [],
+    "related": [
+      "abilify",
+      "risperdal",
+      "seroquel",
+      "prozac",
+      "wellbutrin",
+      "effexor",
+      "paxil",
+      "zoloft",
+      "lamictal",
+      "depakote",
+      "trileptal",
+      "klonopin",
+      "topamax",
+      "concerta",
+      "cyp2c9",
+      "cyp2c19",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Plavix",
+    "criteria": [
+      "rs4244285"
+    ],
+    "related": [
+      "plavix",
+      "clopidogrel",
+      "heart disease",
+      "plavix",
+      "cyp2c9",
+      "cyp2c9",
+      "cyp2c9",
+      "plavix",
+      "cyp2c9",
+      "plavix",
+      "plavix",
+      "plavix",
+      "prasugrel",
+      "ticagrelor",
+      "clopidogrel"
+    ]
+  },
+  {
+    "id": "Provigil",
+    "criteria": [],
+    "related": [
+      "provigil",
+      "modafinil"
+    ]
+  },
+  {
+    "id": "Proguanil",
+    "criteria": [],
+    "related": [
+      "proguanil",
+      "malaria",
+      "cyp2c19",
+      "cyp2c19"
+    ]
+  },
+  {
+    "id": "Rasburicase",
+    "criteria": [
+      "gs309",
+      "gs307",
+      "gs308"
+    ],
+    "related": [
+      "rasburicase",
+      "rasburicase",
+      "pegloticase",
+      "gout",
+      "rasburicase",
+      "pegloticase",
+      "g6pd",
+      "g6pd",
+      "g6pd",
+      "g6pd"
+    ]
+  },
+  {
+    "id": "Reditux",
+    "criteria": [
+      "rs396991"
+    ],
+    "related": [
+      "reditux",
+      "rituximab",
+      "rituximab",
+      "reditux",
+      "fcgr3a"
+    ]
+  },
+  {
+    "id": "Risperdal",
+    "criteria": [
+      "rs705381",
+      "rs6837793",
+      "rs8179183"
+    ],
+    "related": [
+      "risperdal",
+      "risperidone",
+      "risperdal",
+      "abilify",
+      "risperdal",
+      "seroquel",
+      "prozac",
+      "wellbutrin",
+      "effexor",
+      "paxil",
+      "zoloft",
+      "lamictal",
+      "depakote",
+      "trileptal",
+      "klonopin",
+      "topamax",
+      "concerta",
+      "cyp2c9",
+      "cyp2c19",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Remicade",
+    "criteria": [
+      "rs1801274"
+    ],
+    "related": [
+      "remicade",
+      "infliximab",
+      "psoriasis",
+      "crohn's disease",
+      "ankylosing spondylitis",
+      "psoriatic arthritis",
+      "rheumatoid arthritis",
+      "sarcoidosis",
+      "ulcerative colitis",
+      "remicade",
+      "fcgr2a"
+    ]
+  },
+  {
+    "id": "Ramipril",
+    "criteria": [
+      "rs4344"
+    ],
+    "related": [
+      "ramipril",
+      "tritace",
+      "ramace",
+      "altace",
+      "hypertension",
+      "congestive heart failure",
+      "ace",
+      "ramipril"
+    ]
+  },
+  {
+    "id": "Rhinocort",
+    "criteria": [
+      "rs2240017"
+    ],
+    "related": [
+      "rhinocort",
+      "budesonide",
+      "asthma",
+      "allergies",
+      "rhinitis",
+      "inflammatory bowel disease",
+      "tbx21",
+      "asthma",
+      "rhinocort"
+    ]
+  },
+  {
+    "id": "Revia",
+    "criteria": [],
+    "related": [
+      "revia",
+      "naltrexone",
+      "naltrexone"
+    ]
+  },
+  {
+    "id": "Risperidone",
+    "criteria": [
+      "rs705381",
+      "rs6837793",
+      "rs8179183"
+    ],
+    "related": [
+      "risperdal",
+      "antipsychotic",
+      "schizophrenia",
+      "bipolar disorder",
+      "cyp3a5"
+    ]
+  },
+  {
+    "id": "Rosiglitazone",
+    "criteria": [
+      "rs10192566",
+      "rs2278513",
+      "rs11693809"
+    ],
+    "related": [
+      "rosiglitazone",
+      "avandia",
+      "type-2 diabetes",
+      "rosiglitazone"
+    ]
+  },
+  {
+    "id": "SERMs",
+    "criteria": [],
+    "related": [
+      "tamoxifen",
+      "raloxifene",
+      "toremifene",
+      "osteoporosis",
+      "tamoxifen",
+      "breast cancer"
+    ]
+  },
+  {
+    "id": "Rituxan",
+    "criteria": [
+      "rs396991"
+    ],
+    "related": [
+      "rituxan",
+      "rituximab",
+      "rituximab",
+      "rituxan",
+      "fcgr3a"
+    ]
+  },
+  {
+    "id": "SSRI",
+    "criteria": [],
+    "related": [
+      "citalopram"
+    ]
+  },
+  {
+    "id": "Rosuvastatin",
+    "criteria": [
+      "rs20455"
+    ],
+    "related": [
+      "rosuvastatin",
+      "statin",
+      "crestor",
+      "rosuvastatin",
+      "statin"
+    ]
+  },
+  {
+    "id": "Rituximab",
+    "criteria": [
+      "rs396991"
+    ],
+    "related": [
+      "rituximab",
+      "non-hodgkin's lymphoma",
+      "rituxan",
+      "mabthera",
+      "reditux",
+      "rituximab",
+      "fcgr3a"
+    ]
+  },
+  {
+    "id": "Seroxat",
+    "criteria": [
+      "rs2032583"
+    ],
+    "related": [
+      "depression",
+      "seroxat",
+      "paroxetine",
+      "abcb1"
+    ]
+  },
+  {
+    "id": "Scenesse",
+    "criteria": [],
+    "related": [
+      "scenesse",
+      "afamelanotide",
+      "erythropoietic protoporphyria‎"
+    ]
+  },
+  {
+    "id": "Sedatives",
+    "criteria": [
+      "rs77187142",
+      "rs72552710",
+      "rs67666821",
+      "rs2290732",
+      "rs2235632",
+      "rs2234916",
+      "rs1132358",
+      "rs211037"
+    ],
+    "related": [
+      "wikipediaːsedative| sedative",
+      "wikipedia:wikipedia|wikipedia"
+    ]
+  },
+  {
+    "id": "Seroquel",
+    "criteria": [],
+    "related": [
+      "abilify",
+      "risperdal",
+      "seroquel",
+      "prozac",
+      "wellbutrin",
+      "effexor",
+      "paxil",
+      "zoloft",
+      "lamictal",
+      "depakote",
+      "trileptal",
+      "klonopin",
+      "topamax",
+      "concerta",
+      "cyp2c9",
+      "cyp2c19",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Seleken",
+    "criteria": [],
+    "related": [
+      "seleken",
+      "metoprolol",
+      "beta blocker",
+      "metoprolol"
+    ]
+  },
+  {
+    "id": "Simvastatin",
+    "criteria": [
+      "rs20455",
+      "rs4149056",
+      "rs4363657",
+      "rs4149056"
+    ],
+    "related": [
+      "simvastatin",
+      "statin",
+      "zocor",
+      "lipitor",
+      "atorvastatin",
+      "simvastatin",
+      "statin",
+      "simvastatin",
+      "simvastatin",
+      "simvastatin",
+      "clopidogrel",
+      "warfarin"
+    ]
+  },
+  {
+    "id": "Sildenafil",
+    "criteria": [
+      "rs1799752",
+      "rs4340",
+      "rs13447447",
+      "rs4646994",
+      "rs5443"
+    ],
+    "related": [
+      "sildenafil",
+      "viagra",
+      "sildenafil",
+      "ace",
+      "gnb3"
+    ]
+  },
+  {
+    "id": "Sertraline",
+    "criteria": [
+      "rs2235040",
+      "rs9282564"
+    ],
+    "related": [
+      "antidepressant",
+      "htr1a",
+      "slc6a4",
+      "abcb1"
+    ]
+  },
+  {
+    "id": "Sulfamethoxazole",
+    "criteria": [
+      "gs309",
+      "gs307",
+      "gs308"
+    ],
+    "related": [
+      "sulfamethoxazole",
+      "sulfamethoxazole",
+      "g6pd",
+      "g6pd",
+      "g6pd",
+      "g6pd"
+    ]
+  },
+  {
+    "id": "Strattera",
+    "criteria": [],
+    "related": [
+      "strattera",
+      "atomoxetine",
+      "attention deficit hyperactivity disorder",
+      "cyp2d6",
+      "cyp2d6",
+      "atomoxetine"
+    ]
+  },
+  {
+    "id": "Sutent",
+    "criteria": [],
+    "related": [
+      "gleevec",
+      "gastrointestinal cancer"
+    ]
+  },
+  {
+    "id": "Tacrolimus",
+    "criteria": [
+      "rs776746"
+    ],
+    "related": [
+      "tacrolimus",
+      "myasthenia gravis",
+      "rheumatoid arthritis",
+      "cyp3a5",
+      "cyp3a5",
+      "cyp3a5"
+    ]
+  },
+  {
+    "id": "Statins",
+    "criteria": [
+      "rs17244841",
+      "rs17238540",
+      "rs20455",
+      "rs4149056",
+      "rs4363657"
+    ],
+    "related": [
+      "statins",
+      "cholesterol",
+      "heart disease",
+      "atorvastatin",
+      "lipitor",
+      "simvastatin",
+      "zocor",
+      "rosuvastatin",
+      "crestor",
+      "pravastatin",
+      "pravachol",
+      "hmgcr",
+      "heart disease",
+      "pravastatin",
+      "myopathy"
+    ]
+  },
+  {
+    "id": "Sulfanilamide",
+    "criteria": [],
+    "related": [
+      "sulfanilamide",
+      "g6pd]-deficient individuals should use caution when using [[sulfanilamide",
+      "sulfanilamide"
+    ]
+  },
+  {
+    "id": "Taxotere",
+    "criteria": [
+      "rs12762549",
+      "rs11045585"
+    ],
+    "related": [
+      "taxotere",
+      "docetaxel",
+      "breast cancer",
+      "ovarian cancer",
+      "docetaxel"
+    ]
+  },
+  {
+    "id": "Succinylcholine",
+    "criteria": [],
+    "related": [
+      "succinylcholine",
+      "anectine",
+      "quelicin",
+      "ryr1",
+      "malignant hyperthermia"
+    ]
+  },
+  {
+    "id": "Suxamethonium",
+    "criteria": [],
+    "related": [
+      "suxamethonium",
+      "succinylcholine",
+      "anectine",
+      "quelicin",
+      "ryr1",
+      "malignant hyperthermia"
+    ]
+  },
+  {
+    "id": "Tamoxifen",
+    "criteria": [
+      "rs3740065",
+      "rs6025"
+    ],
+    "related": [
+      "tamoxifen",
+      "serms",
+      "breast cancer",
+      "nolvadex",
+      "breast cancer",
+      "tamoxifen",
+      "cyp2d6",
+      "cyp2d6",
+      "breast cancer",
+      "abcc2",
+      "tamoxifen",
+      "breast cancer",
+      "tamoxifen",
+      "breast cancer"
+    ]
+  },
+  {
+    "id": "Topiramate",
+    "criteria": [
+      "rs2832407"
+    ],
+    "related": [
+      "topiramate",
+      "topamax",
+      "phentermine",
+      "alcoholism",
+      "addiction",
+      "obesity",
+      "migraine",
+      "post-traumatic stress disorder",
+      "obsessive compulsive disorder",
+      "smoking",
+      "cluster headaches",
+      "alcoholism"
+    ]
+  },
+  {
+    "id": "Tegafur",
+    "criteria": [
+      "gs313",
+      "gs312",
+      "gs306"
+    ],
+    "related": [
+      "tegafur",
+      "5-flourouracil",
+      "dpyd",
+      "tpmt",
+      "tegafur",
+      "dpyd",
+      "dpyd",
+      "dpyd"
+    ]
+  },
+  {
+    "id": "Tofranil",
+    "criteria": [
+      "rs3892097"
+    ],
+    "related": [
+      "tofranil",
+      "antidepressant",
+      "imipramine",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Triptans",
+    "criteria": [
+      "rs5443"
+    ],
+    "related": [
+      "triptans",
+      "migraines",
+      "headache",
+      "triptans",
+      "sumatriptan",
+      "imitrex",
+      "imigran",
+      "rizatriptan",
+      "maxalt",
+      "naratriptan",
+      "amerge",
+      "naramig",
+      "zolmitriptan",
+      "zomig",
+      "eletriptan",
+      "relpax",
+      "almotriptan",
+      "axert",
+      "almogran",
+      "frovatriptan",
+      "frova",
+      "migard",
+      "triptans",
+      "gnb3"
+    ]
+  },
+  {
+    "id": "Topamax",
+    "criteria": [],
+    "related": [
+      "topiramate",
+      "abilify",
+      "risperdal",
+      "seroquel",
+      "prozac",
+      "wellbutrin",
+      "effexor",
+      "paxil",
+      "zoloft",
+      "lamictal",
+      "depakote",
+      "trileptal",
+      "klonopin",
+      "topamax",
+      "concerta",
+      "cyp2c9",
+      "cyp2c19",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Trepiline",
+    "criteria": [
+      "rs2032583"
+    ],
+    "related": [
+      "trepiline",
+      "antidepressant",
+      "amitriptyline",
+      "abcb1"
+    ]
+  },
+  {
+    "id": "Toprol-XL",
+    "criteria": [],
+    "related": [
+      "toprol-xl",
+      "metoprolol",
+      "beta blocker",
+      "metoprolol"
+    ]
+  },
+  {
+    "id": "Tramadol",
+    "criteria": [],
+    "related": [
+      "tramadol",
+      "ultram",
+      "cyp2d6",
+      "tramadol",
+      "tramadol",
+      "cyp2d6",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Tryptizol",
+    "criteria": [
+      "rs2032583"
+    ],
+    "related": [
+      "tryptizol",
+      "antidepressant",
+      "amitriptyline",
+      "abcb1"
+    ]
+  },
+  {
+    "id": "Trileptal",
+    "criteria": [],
+    "related": [
+      "abilify",
+      "risperdal",
+      "seroquel",
+      "prozac",
+      "wellbutrin",
+      "effexor",
+      "paxil",
+      "zoloft",
+      "lamictal",
+      "depakote",
+      "trileptal",
+      "klonopin",
+      "topamax",
+      "concerta",
+      "cyp2c9",
+      "cyp2c19",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Tryptanol",
+    "criteria": [
+      "rs2032583"
+    ],
+    "related": [
+      "tryptanol",
+      "antidepressant",
+      "amitriptyline",
+      "abcb1"
+    ]
+  },
+  {
+    "id": "Tylenol",
+    "criteria": [],
+    "related": [
+      "tylenol",
+      "acetaminophen",
+      "paracetamol"
+    ]
+  },
+  {
+    "id": "Vivitrol",
+    "criteria": [],
+    "related": [
+      "vivitrol",
+      "naltrexone",
+      "naltrexone"
+    ]
+  },
+  {
+    "id": "Trizivir",
+    "criteria": [],
+    "related": [
+      "trizivir",
+      "abacavir",
+      "abacavir",
+      "abacavir"
+    ]
+  },
+  {
+    "id": "Viagra",
+    "criteria": [
+      "rs1799752",
+      "rs4340",
+      "rs13447447",
+      "rs4646994",
+      "rs5443"
+    ],
+    "related": [
+      "viagra",
+      "sildenafil",
+      "viagra",
+      "ace",
+      "gnb3"
+    ]
+  },
+  {
+    "id": "Vincristine",
+    "criteria": [
+      "rs924607"
+    ],
+    "related": [
+      "vincristine",
+      "acute lymphoblastic leukemia"
+    ]
+  },
+  {
+    "id": "Ultram",
+    "criteria": [],
+    "related": [
+      "ultram",
+      "tramadol"
+    ]
+  },
+  {
+    "id": "Venlafaxine",
+    "criteria": [
+      "rs2032583"
+    ],
+    "related": [
+      "venlafaxine",
+      "effexor",
+      "depression",
+      "cyp2d6",
+      "cyp3a4",
+      "cyp2d6",
+      "venlafaxine",
+      "cyp2d6",
+      "abcb1"
+    ]
+  },
+  {
+    "id": "Warfarin",
+    "criteria": [
+      "rs1057910",
+      "rs1799853",
+      "rs8050894",
+      "rs9923231",
+      "rs8050894",
+      "rs216013",
+      "rs1057910",
+      "rs1799853",
+      "rs8050894",
+      "rs9923231",
+      "rs11676382",
+      "rs28940302",
+      "rs28940303",
+      "rs28940304",
+      "rs28940305",
+      "rs104894539",
+      "rs104894540",
+      "rs104894541",
+      "rs104894542",
+      "rs11676382",
+      "gs126",
+      "gs127",
+      "gs160",
+      "gs161",
+      "gs162"
+    ],
+    "related": [
+      "coumadin",
+      "jantoven",
+      "marevan",
+      "waran",
+      "vkorc1",
+      "cyp2c9",
+      "cyp2c9",
+      "vkorc1",
+      "warfarin",
+      "coumadin",
+      "simvastatin",
+      "clopidogrel",
+      "warfarin",
+      "cyp2c9",
+      "vkorc1",
+      "vkorc1",
+      "vkorc1",
+      "warfarin",
+      "vkorc1",
+      "cyp2c9",
+      "promethease"
+    ]
+  },
+  {
+    "id": "Ziagen",
+    "criteria": [
+      "rs2395029"
+    ],
+    "related": [
+      "ziagen",
+      "abacavir",
+      "trizivir",
+      "kivexa/epzicom",
+      "abacavir"
+    ]
+  },
+  {
+    "id": "Xeloda",
+    "criteria": [],
+    "related": [
+      "xeloda",
+      "capecitabine",
+      "capecitabine"
+    ]
+  },
+  {
+    "id": "Zoloft",
+    "criteria": [],
+    "related": [
+      "abilify",
+      "risperdal",
+      "seroquel",
+      "prozac",
+      "wellbutrin",
+      "effexor",
+      "paxil",
+      "zoloft",
+      "lamictal",
+      "depakote",
+      "trileptal",
+      "klonopin",
+      "topamax",
+      "concerta",
+      "cyp2c9",
+      "cyp2c19",
+      "cyp2d6"
+    ]
+  },
+  {
+    "id": "Zytiga",
+    "criteria": [],
+    "related": [
+      "zytiga",
+      "abiraterone_acetate"
+    ]
+  },
+  {
+    "id": "Zocor",
+    "criteria": [
+      "rs20455",
+      "rs4149056",
+      "rs4363657",
+      "rs4149056"
+    ],
+    "related": [
+      "zocor",
+      "statin",
+      "simvastatin",
+      "zocor",
+      "statin",
+      "zocor",
+      "simvastatin"
+    ]
+  },
+  {
+    "id": "Liothyronine",
+    "criteria": [
+      "rs225014"
+    ],
+    "related": [
+      "category:is a medicine",
+      "hypothyroidism",
+      "dio1",
+      "dio2",
+      "dio2",
+      "dio3",
+      "dio1",
+      "dio2",
+      "liothyronine"
+    ]
+  }
+]
